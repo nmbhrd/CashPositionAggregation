@@ -7,6 +7,7 @@ Pull the project to your local environment
 Run via the main class in your terminal/commandline or via your IDE
 
 <h2>To Do/Improvements</h2>
+
 - [ ] Improve Test Coverage
   - [ ] Add unit tests for the Main Class
   - [ ] Improve tests covering the Trade Aggregator 
